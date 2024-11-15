@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ShapeChange"]
+	path = ShapeChange
+	url = https://github.com/cran/ShapeChange
+[submodule "ShapeSelectForest"]
+	path = ShapeSelectForest
+	url = https://github.com/cran/ShapeSelectForest
+[submodule "cgam"]
+	path = cgam
+	url = https://github.com/cran/cgam
+[submodule "coneproj"]
+	path = coneproj
+	url = https://github.com/cran/coneproj
+[submodule "csurvey"]
+	path = csurvey
+	url = https://github.com/cran/csurvey
