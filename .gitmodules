@@ -16,4 +16,4 @@
 	url = https://github.com/cran/coneproj
 [submodule "csurvey"]
 	path = csurvey
-	url = https://github.com/cran/csurvey
+	url = https://github.com/xliaosdsu/csurvey
